@@ -3,8 +3,8 @@ from spotify_control import SpotifyControl
 from gesture_control import GestureControl
 import time
 in
-SPOTIPY_CLIENT_ID = '4b74fa45b4c94722bb904b5cf85d5f3e'
-SPOTIPY_CLIENT_SECRET = '6a96d3f7bc7e49f6a48571c850017836'
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
 SPOTIPY_REDIRECT_URI = 'http://localhost:8888/callback'
 
 # Initiinalize Spotify and Gesture control objects
